@@ -27,9 +27,9 @@
 ### VS Code ###
 .vscode/
 
+/target/
 /.classpath
 /.springBeans
-/.gitignore
 /.project
 /.settings/
 /.gradle/
