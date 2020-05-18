@@ -26,3 +26,11 @@
 
 ### VS Code ###
 .vscode/
+
+/.classpath
+/.springBeans
+/.gitignore
+/.project
+/.settings/
+/.gradle/
+/build/
